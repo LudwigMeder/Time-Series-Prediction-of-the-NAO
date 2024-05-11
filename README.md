@@ -2,7 +2,7 @@
 
 ## Repository Link
 
-[https://github.com/LudwigMeder/Time-Series-Prediction_NAO]
+[https://github.com/LudwigMeder/Time-Series-Prediction-of-the-NAO]
 
 ## Description
 
