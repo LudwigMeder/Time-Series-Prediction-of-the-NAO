@@ -1,8 +1,8 @@
-# [Your Project Title Here]
+# [Time-Series-Prediction of the NAO]
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+[https://github.com/LudwigMeder/Time-Series-Prediction_NAO]
 
 ## Description
 
