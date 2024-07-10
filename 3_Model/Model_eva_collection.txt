@@ -7,5 +7,6 @@ ELM, neuron_network, 64 neurons; act.fun: sigm, true, None, None, Daily, 14, 1, 
 ELM, neuron_network, 128 neurons; act.fun: sigm, true, None, None, Daily, 14, 5, 0.275, 80.7
 ELM, neuron_network, 128 neurons; act.fun: sigm, true, None, None, Daily, 62,14, 0.51, 76.4
 ELM, neuron_network, 128 neurons; act.fun: sigm, true, None, None, Daily, 123, 31, 0.63, 75.1
+LSTM, RNN, 64 neurons 10 epochs, True, None, None, Daily, 48, 1, 0.48, 91.3
 NBeatsNet,neuron_network,None,True,True,None,Daily,24,1,0.0167,99.926
 NBeatsNet,neuron_network,None,True,True,None,Monthly,24,1,0.1483,99.7802
