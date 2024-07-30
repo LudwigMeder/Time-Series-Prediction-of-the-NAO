@@ -17,6 +17,7 @@ This project focuses on time series prediction using the North Atlantic Oscillat
 - **Best Model:** [NBeats]
 - **Evaluation Metric:** [MSE, MAE, Phase Percentage]
 - **Result:** [MSE = 0.013, Phase Percentage = 99.90]
+- **Prediction:** [used 24 days to predict 1 day]
 
 ### Models Used
 
