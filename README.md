@@ -52,7 +52,7 @@ This project focuses on time series prediction using the North Atlantic Oscillat
 ## Documentation
 
 1. **[Literature Review](0_LiteratureReview/README.md)**  
-Due to the variety of approaches to predict the NAO, literature references are rather given within the model code.
+Due to the variety of approaches to predict the NAO, literature references are rather given within some of the model codes.
 3. **[Dataset Characteristics](1_DatasetCharacteristics/exploratory_data_analysis.ipynb)**
 4. **[Baseline Model](2_BaselineModel/baseline_model.ipynb)**
 5. **[Model Definition and Evaluation](3_Model/model_definition_evaluation)**
