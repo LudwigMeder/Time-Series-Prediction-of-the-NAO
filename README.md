@@ -26,7 +26,7 @@ This project focuses on time series prediction using the North Atlantic Oscillat
 - LSTM
 - GRU
 - NBEATS
-- EEMD
+- Random Forest
 - XGBoost
 - ELM
 
